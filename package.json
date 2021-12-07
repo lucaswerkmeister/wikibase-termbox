@@ -91,7 +91,7 @@
     "eslint-plugin-wdio": "^7.4.2",
     "fork-ts-checker-webpack-plugin": "^1.6.0",
     "gonzales-pe": "^4.3.0",
-    "jest-dom": "^2.1.1",
+    "jest-dom": "^4.0.0",
     "less-variable-resolver": "^0.1.2",
     "nock": "^10.0.6",
     "node-sass": "^5.0.0",
